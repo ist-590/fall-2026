@@ -78,47 +78,50 @@ The cutoff point for each grade is the lower number without rounding
 
 ### Week 3 (09/07) — No Class (Labor Day)
 
-### Week 4 (09/14) —  Research Ethics I
-* Reproducibility, Replicability, Robustness
+### Week 4 (09/14) — Navigating University Libraries (Guest Lecture by [Carmen Cole](https://guides.libraries.psu.edu/prf.php?id=597705fa-7cdb-11ed-9922-0ad758b798c3))
 
-
-### Week 5 (09/21) — Research Ethics II
-* Navigating the IRB
-
-### Week 6 (09/28) — Research Ethics III
-* Thinking Beyond the IRB 
-
-### Week 7 (10/05) — Research Ethics IV
-* Responsible use of AI
-
-
-### Week 8 (10/12) — Research Ethics V
-* Authorship and Contribution
-
-
-### Week 9 (10/19) — Writing
+### Week 5 (09/21) — Writing
 * [Designing a one-draft thesis](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf)
-
-### Week 10 (10/26) — Writing II
 * [The science of scientific writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
 
-### Week 11 (11/02) — Navigating advisor-advisee relationships
-* [Dear Advisee: What your advisor wants you to know](https://www.apa.org/monitor/2012/07-08/advisee)
-* [Navigating the advisor-advisee relationship](https://nathanhoffmann.com/2020/11/08/navigating-the-advisor-advisee-relationship/)
+### Week 6 (09/28) — Research Ethics I (Reproducibility & Replicability)
+* [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021)
 
-### Week 12 (11/09) — Mental health and wellbeing during PhD
+
+### Week 7 (10/05) — Research Ethics II (IRB)
+* [IRB Learning Path](https://researchsupport.psu.edu/orp/irb/irb-resources-training-and-events/irb-learning-path/)
+
+
+### Week 8 (10/12) — Research Ethics III (Responsible Use of AI)
+* [Generative AI in research](https://researchsupport.psu.edu/orp/education/generative-ai-in-research)
+
+
+
+### Week 9 (10/19) — Research Ethics IV (Authorship & Contribution)
+* [Authorship and Publication](https://researchsupport.psu.edu/orp/education/education-rcr-authorship/)
+
+
+### Week 10 (10/26) — Research Ethics V (Guest Lecture by [Courtney Karmelita](https://researchsupport.psu.edu/orp-staff/courtney-karmelita/))
+
+
+### Week 11 (11/02) — Mental Health and Wellbeing During PhD
 * [The mental health of PhD researchers demands urgent attention](https://www.nature.com/articles/d41586-019-03489-1)
 
+### Week 12 (11/09) — Career Development
+* [Beyond Academia Is Not a Backup Plan: What the Research Says About PhD Careers](https://grad.rutgers.edu/news/what-research-says-about-phd-careers)
+* [A scientific approach to navigating the academic job market](https://doi.org/10.1038/s41386-021-01225-w)
 
-### Week 13 (11/16) — Career development
+### Week 13 (11/16)  — Working with Your Advisor (Guest Lecture by [Shomir Wilson](https://shomir.net/))
+* [Rethinking How We Discuss the Guidance of Student Researchers in Computing](https://dl.acm.org/doi/10.1145/3770762.3772504)
+* [Dear Advisee: What your advisor wants you to know](https://www.apa.org/monitor/2012/07-08/advisee)
+* [Navigating the advisor-advisee relationship](https://nathanhoffmann.com/2020/11/08/navigating-the-advisor-advisee-relationship/)
 
 
 ### Week 14 (11/23) — No Class (Thanksgiving Holidays)
 
-### Week 15 (11/30) — Qualifying Exam
-* Overview and requirements
+### Week 15 (11/30) — Qualifying Exam (Overview & Requirements)
 
-### Week 16 (12/07) — Conclusion and Looking ahead
+### Week 16 (12/07) — Conclusion and Looking Ahead
 
 
 ## Course Policy
@@ -140,15 +143,14 @@ Academic integrity is the pursuit of scholarly activity in an open, honest and r
 Penn State welcomes students with disabilities into the University’s
 educational programs. Every Penn State campus has an office for students
 with disabilities. Student Disability Resources (SDR) website provides
-contact information for [every Penn State campus](https://equity.psu.edu/offices/student-disability-resources/campus-offices). For further
-information, please visit the [Student Disability Resources website](http://equity.psu.edu/sdr/).
+contact information for [every Penn State campus](https://equity.psu.edu/offices/student-disability-resources/campus-offices). For further information, please visit the [Student Disability Resources website](http://equity.psu.edu/sdr/).
 
 In order to receive consideration for reasonable accommodations, you
 must contact the appropriate disability services office at the campus
 where you are officially enrolled, participate in an intake interview,
 and provide documentation ([see documentation guidelines](http://equity.psu.edu/sdr/guidelines)). If the documentation supports your request for reasonable accommodations, your campus disability services office will provide you with an accommodation letter. Please share this letter with your instructors and discuss the accommodations with them as early as possible. You must follow this process for every semester that you request accommodations.
 
-### Counseling and psychological services
+### Counseling and Psychological Services
 
 Many students at Penn State face personal challenges or have
 psychological needs that may interfere with their academic progress,
@@ -245,9 +247,7 @@ notifications at least daily.
 
 ### Use of Generative AI tools
 
-You are **allowed** to use generative AI tools for the assignments and the final project. Why? As you apply for jobs, you will need to know how to leverage AI tools to meet the expectations for both quality and timeliness. When using generative AI tools, you must show understanding of prompt engineering, engage in content generation checking, and appropriately
-reference the tool (e.g., ChatGPT, Midjourney) from which the content
-(e.g., text, image, ideas) was generated.
+You are **allowed** to use generative AI tools for the assignments and the final project. Why? As you apply for jobs, you will need to know how to leverage AI tools to meet the expectations for both quality and timeliness. When using generative AI tools, you must show understanding of prompt engineering, engage in content generation checking, and appropriately reference the tool (e.g., ChatGPT, Midjourney) from which the content (e.g., text, image, ideas) was generated.
 
 - For suggestions on how to properly cite and reference generative AI
   tools, please see the following webpages:
