@@ -25,12 +25,12 @@ include-after: |
 	* Schedule a meeting using the [booking page](https://outlook.office.com/book/OfficehoursSaeedAbdullah@m365.psu.edu/?ismsaljsauthenabled)
 
 
-## Description
+## Description[^ack] [^ai-use]
 IST 590 is a 1-credit graduate colloquium offered in both Fall and
 Spring that consists primarily of presentations, discussions and other
 activities led by faculty, students, or outside speakers. Ph.D. students
 must participate in IST 590 during the Fall and Spring semesters of
-their first year. 
+their first year.
 
 
 
@@ -45,7 +45,7 @@ research and teaching careers:
 - Discuss the multiple disciplines that are represented across IST
   faculty and students, and how this influences the way the College
   conducts research and graduate education.
-  
+
 
 
 ## Course Grading
@@ -111,7 +111,7 @@ The cutoff point for each grade is the lower number without rounding
 * [Beyond Academia Is Not a Backup Plan: What the Research Says About PhD Careers](https://grad.rutgers.edu/news/what-research-says-about-phd-careers)
 * [A scientific approach to navigating the academic job market](https://doi.org/10.1038/s41386-021-01225-w)
 
-### Week 13 (11/16)  — Working with Your Advisor (Guest Lecture by [Shomir Wilson](https://shomir.net/))
+### Week 13 (11/16) — Working with Your Advisor (Guest Lecture by [Shomir Wilson](https://shomir.net/))
 * [Rethinking How We Discuss the Guidance of Student Researchers in Computing](https://dl.acm.org/doi/10.1145/3770762.3772504)
 * [Dear Advisee: What your advisor wants you to know](https://www.apa.org/monitor/2012/07-08/advisee)
 * [Navigating the advisor-advisee relationship](https://nathanhoffmann.com/2020/11/08/navigating-the-advisor-advisee-relationship/)
@@ -235,7 +235,7 @@ We recommend that students enroll in this system.
 Please use Canvas Inbox for communication. Instructors aims to respond in 1-2 day to student emails during normal business hours.
 
 
-#### Logging into Canvas 
+#### Logging into Canvas
 Students are expected to log in to Canvas daily, to check for course
 updates, announcements, emails, and discussions.
 
@@ -269,3 +269,6 @@ change. Instructor will notify students of any major changes and
 students will be responsible for abiding by them. Even if you print this
 syllabus, please check the online version often.
 
+[^ack]: I have adapted class content and structure from [Sarah Rajtmajer](https://ist.psu.edu/directory/smr48). Thanks, Sarah!
+
+[^ai-use]: **AI Use Disclosure**: I used AI for grammar and consistency checking. I also used AI to explore articles and reading suggestions for different topics. I have checked AI output to ensure accuracy and relevance.
