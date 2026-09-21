@@ -81,8 +81,8 @@ The cutoff point for each grade is the lower number without rounding
 ### Week 4 (09/14) — Navigating University Libraries (Guest Lecture by [Carmen Cole](https://guides.libraries.psu.edu/prf.php?id=597705fa-7cdb-11ed-9922-0ad758b798c3))
 
 ### Week 5 (09/21) — Writing
-* [Designing a one-draft thesis](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf)
-* [The science of scientific writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
+* [Designing a one-draft thesis](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf) ([Canvas](https://psu.instructure.com/courses/2485870/files/folder/Readings/Week-5))
+* [The science of scientific writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing) ([Canvas](https://psu.instructure.com/courses/2485870/files/folder/Readings/Week-5))
 
 ### Week 6 (09/28) — Research Ethics I (Reproducibility & Replicability)
 * [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021)
