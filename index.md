@@ -19,6 +19,9 @@ include-after: |
 
 ## Weekly Schedule
 
+### Week 6 (10/05) — Research Ethics II (IRB)
+* [Slides](https://psu.instructure.com/courses/2485870/files/folder/Slides?preview=196414172)
+
 ### Week 6 (09/28) — Research Ethics I (Reproducibility & Replicability)
 * [Slides](https://psu.instructure.com/courses/2485870/files/folder/Slides?preview=196124951)
 
