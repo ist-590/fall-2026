@@ -18,8 +18,10 @@ include-after: |
 ## [Syllabus](./syllabus/index.html)
 
 ## Weekly Schedule
+### Week 9 (10/19) — Research Ethics IV (Authorship & Contribution)
+* [Slides](./slides/ist-590-slides-2026-10-19/ist-590-slides-2026-10-19.html)
 
-### Week 8 (10/05) — Research Ethics III (Responsible Use of AI)
+### Week 8 (10/12) — Research Ethics III (Responsible Use of AI)
 * [Slides](./slides/ist-590-slides-2026-10-12/ist-590-slides-2026-10-12.html)
 
 ### Week 7 (10/05) — Research Ethics II (IRB)
