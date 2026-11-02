@@ -103,13 +103,13 @@ The cutoff point for each grade is the lower number without rounding
 
 ### Week 10 (10/26) — Research Ethics V (Guest Lecture by [Courtney Karmelita](https://researchsupport.psu.edu/orp-staff/courtney-karmelita/))
 
-
-### Week 11 (11/02) — Mental Health and Wellbeing During PhD
-* [The mental health of PhD researchers demands urgent attention](https://www.nature.com/articles/d41586-019-03489-1)
-
-### Week 12 (11/09) — Career Development
+### Week 11 (11/02) — Career Development
 * [Beyond Academia Is Not a Backup Plan: What the Research Says About PhD Careers](https://grad.rutgers.edu/news/what-research-says-about-phd-careers)
 * [A scientific approach to navigating the academic job market](https://doi.org/10.1038/s41386-021-01225-w)
+
+### Week 12 (11/09) — Mental Health and Wellbeing During PhD
+* [The mental health of PhD researchers demands urgent attention](https://www.nature.com/articles/d41586-019-03489-1)
+
 
 ### Week 13 (11/16) — Working with Your Advisor (Guest Lecture by [Shomir Wilson](https://shomir.net/))
 * [Rethinking How We Discuss the Guidance of Student Researchers in Computing](https://dl.acm.org/doi/10.1145/3770762.3772504)
