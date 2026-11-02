@@ -17,7 +17,12 @@ include-after: |
 
 ## [Syllabus](./syllabus/index.html)
 
-## Weekly Schedule
+### Week 11 (11/02) — Career Development
+* [Slides](./slides/ist-590-slides-2026-11-02/ist-590-slides-2026-11-02.html)
+
+### Week 10 (10/26) — Research Ethics V (Guest Lecture by [Courtney Karmelita](https://researchsupport.psu.edu/orp-staff/courtney-karmelita/))
+
+
 ### Week 9 (10/19) — Research Ethics IV (Authorship & Contribution)
 * [Slides](./slides/ist-590-slides-2026-10-19/ist-590-slides-2026-10-19.html)
 
