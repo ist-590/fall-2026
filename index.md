@@ -17,35 +17,38 @@ include-after: |
 
 ## [Syllabus](./syllabus/index.html)
 
-### Week 11 (11/02) — Career Development
+## Week 11 (11/09) — Mental Health and Wellbeing During PhD
+* [Slides](./slides/ist-590-slides-2026-11-09/ist-590-slides-2026-11-09.html)
+
+## Week 11 (11/02) — Career Development
 * [Slides](./slides/ist-590-slides-2026-11-02/ist-590-slides-2026-11-02.html)
 
-### Week 10 (10/26) — Research Ethics V (Guest Lecture by [Courtney Karmelita](https://researchsupport.psu.edu/orp-staff/courtney-karmelita/))
+## Week 10 (10/26) — Research Ethics V (Guest Lecture by [Courtney Karmelita](https://researchsupport.psu.edu/orp-staff/courtney-karmelita/))
 
 
-### Week 9 (10/19) — Research Ethics IV (Authorship & Contribution)
+## Week 9 (10/19) — Research Ethics IV (Authorship & Contribution)
 * [Slides](./slides/ist-590-slides-2026-10-19/ist-590-slides-2026-10-19.html)
 
-### Week 8 (10/12) — Research Ethics III (Responsible Use of AI)
+## Week 8 (10/12) — Research Ethics III (Responsible Use of AI)
 * [Slides](./slides/ist-590-slides-2026-10-12/ist-590-slides-2026-10-12.html)
 
-### Week 7 (10/05) — Research Ethics II (IRB)
+## Week 7 (10/05) — Research Ethics II (IRB)
 * [Slides](https://psu.instructure.com/courses/2485870/files/folder/Slides?preview=196414172)
 
-### Week 6 (09/28) — Research Ethics I (Reproducibility & Replicability)
+## Week 6 (09/28) — Research Ethics I (Reproducibility & Replicability)
 * [Slides](https://psu.instructure.com/courses/2485870/files/folder/Slides?preview=196124951)
 
-### Week 5 (09/21) — Writing
+## Week 5 (09/21) — Writing
 
-### Week 4 (09/14) — Navigating University Libraries
+## Week 4 (09/14) — Navigating University Libraries
 * Guest Lecture by [Carmen Cole](https://guides.libraries.psu.edu/prf.php?id=597705fa-7cdb-11ed-9922-0ad758b798c3)
 
-### Week 3 (09/07) — No Class (Labor Day)
+## Week 3 (09/07) — No Class (Labor Day)
 
-### Week 2 — 2026-08-31 (Reading)
+## Week 2 — 2026-08-31 (Reading)
 * [Slides](./slides/ist-590-slides-2026-08-31/ist-590-slides-2026-08-31.html)
 
-### Week 1 — 2026-08-24 (Introduction)
+## Week 1 — 2026-08-24 (Introduction)
 * [Slides](./slides/ist-590-slides-2026-08-24/ist-590-slides-2026-08-24.html)
 
 
