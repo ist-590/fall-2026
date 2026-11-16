@@ -17,7 +17,10 @@ include-after: |
 
 ## [Syllabus](./syllabus/index.html)
 
-## Week 11 (11/09) — Mental Health and Wellbeing During PhD
+
+## Week 13 (11/16) — Working with Your Advisor (Guest Lecture by [Shomir Wilson](https://shomir.net/))
+
+## Week 12 (11/09) — Mental Health and Wellbeing During PhD
 * [Slides](./slides/ist-590-slides-2026-11-09/ist-590-slides-2026-11-09.html)
 
 ## Week 11 (11/02) — Career Development
